@@ -1,0 +1,149 @@
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    align-items: center;
+    
+}
+#Search{
+    position: relative;
+    left: 175px;
+    bottom: -2px;
+}
+#SearchInput{
+    border-radius: 30px;
+}
+#SearchInput:hover{
+    background-color: rgb(240, 229, 229);
+}
+.nav div>a{
+   
+    text-decoration: none;
+}
+.nav div{
+     width: 500px;
+}
+.navlogo{
+    gap: 10px;
+}
+
+#Heart:hover{
+    background-color: rgb(240, 229, 229);
+}
+#Heart{
+    padding: 10px;
+    border-radius: 20px;
+
+}
+#Bag:hover{
+    background-color: rgb(240, 229, 229);
+}
+#Bag{
+    padding: 10px;
+    border-radius: 20px;
+}
+.hero{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+#hero-links{
+    width: 800px;
+}
+#hero-links>a{
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.hero2{
+    text-align: center;
+}
+.featured{
+    display:flex;
+}
+.center{
+    text-align:center
+}
+.fly{
+    display: flex;
+}
+.flx{
+    display: flex;
+}
+.shs{
+    display: flex;
+}
+.btn1{
+    position: absolute;
+    height: 30px;
+    width: 100px;
+    border-radius: 30px;
+    left: 70px;
+    bottom: -2400px;
+    border: none;
+}
+.btn2{
+    position: absolute;
+    height: 30px;
+    width: 100px;
+    border-radius: 30px;
+    left: 500px;
+    bottom: -2400px;
+    border: none;
+}
+.btn3{
+    position: absolute;
+    height: 30px;
+    width: 100px;
+    border-radius: 30px;
+    left: 950px;
+    bottom: -2400px;
+    border: none;
+}
+.btn4{
+    position: absolute;
+    height: 30px;
+    width: 100px;
+    border-radius: 30px;
+    left: 1440px;
+    bottom: -2400px;
+    border: none;
+}
+.btn5{
+    position: absolute;
+    height: 30px;
+    width: 100px;
+    border-radius: 30px;
+    left: 1860px;
+    bottom: -2400px;
+    border: none;
+}
+.btn6{
+    position: absolute;
+    height: 30px;
+    width: 100px;
+    border-radius: 30px;
+    left: 2360px;
+    bottom: -2400px;
+    border: none;
+}
+.btn7{
+    position: absolute;
+    height: 30px;
+    width: 100px;
+    border-radius: 30px;
+    left: 2800px;
+    bottom: -2400px;
+    border: none;
+}
+.footer{
+    display:flex;
+    justify-content: space-around;
+    
+}
+
+.footer a{
+    text-decoration: none;
+    color: black;  
+}
